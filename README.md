@@ -5,9 +5,9 @@
 
 3.Ne nécessite aucune création de database
 
-----------------------------------------
-   -----Concernant compte addmin------ :
-----------------------------------------
+
+---------Concernant compte addmin------ :
+
 
 3.Afin d'accéder au panneau admin:
 

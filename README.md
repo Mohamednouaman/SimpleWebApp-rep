@@ -6,7 +6,7 @@
 3.Ne nécessite aucune création de database
 
 
-************Concernant compte admin*************** :
+------------**Concernant compte admin**-------------- :
 
 
 3.Afin d'accéder au panneau admin:

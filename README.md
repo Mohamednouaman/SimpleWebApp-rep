@@ -7,4 +7,4 @@
 ******************************************
 3.Afin d'accéder au panneau admin:
        1-Inscription: email :admin@gmail.com , mot de passe :admin
-       2-Connexion : email :admin@gmail.com , mot de passe :admin
+       2-Connexion   : email :admin@gmail.com , mot de passe :admin
